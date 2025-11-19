@@ -16,7 +16,7 @@
 <!-- Main Content -->
 <div align="center">
 
-# 🙋 Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 🙋 Hello everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 </div>
 
