@@ -44,9 +44,6 @@
 
 追求卓越的技术深度，致力于构建高性能、高可用的系统解决方案。
 
-    </td>
-    <td width="30%">
-      
 <!-- Profile Picture -->
 <div align="center">
   <img align="right" width="100" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
