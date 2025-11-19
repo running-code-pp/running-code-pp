@@ -46,7 +46,7 @@
 
 <!-- Profile Picture -->
 <div align="center">
-  <img align="right" width="100" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+  <img align="right" width="100" src="https://avatars.githubusercontent.com/u/211151041?s=96&v=4" />
 </div>
 
 <!-- Stats Badges -->
