@@ -52,19 +52,6 @@
 <!-- Stats Badges -->
 <div align="center">
   
-### 📊 GitHub 统计
-
-<!-- 这里将显示GitHub统计信息 -->
-<div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="400">
-</div>
-
-</div>
-
-    </td>
-  </tr>
-</table>
-
 <!-- Contribution Graph -->
 ## 📈 贡献图表
 
