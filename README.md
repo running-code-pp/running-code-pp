@@ -44,14 +44,18 @@
 
 追求卓越的技术深度，致力于构建高性能、高可用的系统解决方案。
 
+    </td>
+    <td width="30%">
+      
 <!-- Profile Picture -->
 <div align="center">
-  <img align="right" width="100" src="https://avatars.githubusercontent.com/u/211151041?s=96&v=4" />
+  <img width="150" src="https://avatars.githubusercontent.com/u/211151041?s=96&v=4" />
 </div>
 
-<!-- Stats Badges -->
-<div align="center">
-  
+    </td>
+  </tr>
+</table>
+
 <!-- Contribution Graph -->
 ## 📈 贡献图表
 
